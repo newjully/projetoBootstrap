@@ -1,0 +1,25 @@
+
+.navbar {
+    background-color:#D7BDE2 ;
+    font-display:initial;
+}
+
+.apresentacao{
+    background-color: #F5B7B1;
+}
+
+.margin {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.peding {
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+
+}
